@@ -1,0 +1,29 @@
+Microcontrollers for IoT: Arduino vs ESP32 vs Raspberry Pi
+
+What it is: A comprehensive video guide that directly compares Arduino, ESP32, and Raspberry Pi.
+
+Why it's great: It explains what microcontrollers are, why they are essential for IoT, and breaks down the specific use cases for each board (e.g., ESP32 for budget Wi-Fi, Raspberry Pi for complex AI/data tasks).
+
+DroneBot Workshop (YouTube Channel)
+
+What it is: One of the most thorough, easy-to-follow channels for electronics, microcontrollers, and single-board computers.
+
+Key Videos to Watch:
+
+Raspberry Pi - 10 Years & 10 Projects: A great overview of the history of the Pi and all its models (from Zero to Pi 4).
+
+WLED - Getting Started with ESP32: Shows you how to safely wire up and control LEDs using an ESP32 chip over Wi-Fi.
+
+PiZZa - Turn a Raspberry Pi Zero into a Microcontroller: Explores the crossover of using a Pi Zero board programmed via the Arduino IDE.
+
+NetworkChuck (YouTube Channel)
+
+What it is: A highly energetic, fast-paced tech channel that focuses heavily on IT, networking, and single-board computing.
+
+Key Videos to Watch: Look for his Raspberry Pi Projects series. He covers everything from building a basic router or retro gaming console, to creating a Raspberry Pi "Super Computer" cluster using Kubernetes. It is highly motivating for beginners wanting to see the end-goal possibilities.
+
+ESP32 vs Arduino vs Raspberry Pi: Which Should You Use in Your Product?
+
+What it is: A video by Predictable Designs focused on product development.
+
+Why it's great: If you are building projects for the IoThinc club with the goal of eventually prototyping a real product, this video explains the differences in manufacturing, cost, and complexity when scaling up from a hobby board to a commercial device.
